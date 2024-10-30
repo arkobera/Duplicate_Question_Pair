@@ -6,8 +6,6 @@ This project identifies duplicate questions by analyzing question pairs and pred
 
 - `helper.py`: Contains utility functions for text preprocessing and feature extraction.
 - `requirements.txt`: Lists the dependencies for the project.
-- `notebooks/`: Jupyter notebooks with experiments and model training.
-- `data/`: Directory for storing datasets.
 
 ## Requirements
 
